@@ -1,5 +1,8 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
+NAME : M VIRUMAA HARISH
+
+REG : 212223230246
 
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
